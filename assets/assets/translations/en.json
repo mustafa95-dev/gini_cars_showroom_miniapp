@@ -1,0 +1,139 @@
+{
+	"error-parsing-json": "There is a problem with parsing the body, please try again later.",
+
+	"server-timeout": "It looks like you have an unstable network or the server is taking to long to respond, please try again later.",
+
+	"unknown": "Something went wrong, please try again later.",
+
+	"field-required": "This field is required.",
+
+	"request-error": "Request error",
+
+	"home": "Home",
+
+	"search": "Search",
+
+	"retry": "Retry",
+
+	"no-results-found": "No results found",
+
+	"type-here": "Type here...",
+
+	"filter": "Filter",
+
+	"status": "Condition",
+
+	"our-top-picks-for-you": "Our top picks for you",
+
+	"brands": "Brands",
+
+	"recently-added": "Recently added",
+
+	"select-brand": "Select brand",
+
+	"search-for-brands": "Search for brands",
+
+	"search-for-models": "Search for models",
+
+	"select-condition": "Select condition",
+
+	"paint-parts": "Paint parts",
+
+	"colors": "colors",
+
+	"select-payment-method": "Select payment method",
+
+	"clear": "Clear",
+
+	"results": "Results ({})",
+
+	"results-found": "{} results found",
+
+	"specs": "Specs",
+
+	"manufacturer": "Manufacturer",
+
+	"model": "Model",
+
+	"year": "Year",
+
+	"exterior-color": "Exterior color",
+
+	"interior-color": "Interior color",
+
+	"import-country": "Import country",
+
+	"transmission": "Transmission",
+
+	"fuel-type": "Fuel type",
+
+	"engine-capacity": "Engine capacity",
+
+	"cylinders": "Cylinders",
+
+	"number-of-seats": "Number of seats",
+
+	"mileage": "Mileage",
+
+	"plate": "Plate",
+
+	"vehicle-details": "Vehicle details",
+
+	"whatsapp": "Whatsapp",
+
+	"call": "Call",
+
+	"report": "Report",
+
+	"image": "Image",
+
+	"price": "Price",
+
+	"brand": "Brand",
+
+	"select-model": "Select model",
+
+	"trim": "Trim",
+
+	"select-trim": "Select trim",
+
+	"select-year": "Select year",
+
+	"description": "Description",
+
+	"iqd": "IQD",
+
+	"gallery": "Gallery",
+
+	"vehicle-identification-number": "Vehicle identification number",
+
+	"notifications": "Notifications",
+
+	"my-orders": "My Orders",
+
+	"reports": "Reports",
+
+	"vehicle-inquiry": "Vehicle inquiry",
+
+	"images": "Images",
+
+	"save": "Save",
+
+	"cancel": "Cancel",
+
+	"show": "Show",
+
+	"the-report-has-been-fetched-successfully-you-can-show-it-in-the-reports-page-or-you-can-press-the-button-below-to-view-it": "The report has been fetched successfully, you can show it in the reports page or you can press the button below to view it",
+
+	"do-you-want-to-get-report-for-this-vehicle": "Do you want to get a report for this vehicle?",
+
+	"there-are-no-orders": "There are no orders",
+
+	"no-reports-found": "No reports found",
+
+	"attention": "Attention",
+
+	"are-you-sure-you-want-to-get-this-report": "Are you sure you want to get this report?",
+
+	"yes": "Yes"
+}

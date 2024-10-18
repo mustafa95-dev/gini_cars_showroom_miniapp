@@ -1,0 +1,135 @@
+{
+	"error-parsing-json": "هناك مشكلة في تحليل النص، يرجى المحاولة مرة أخرى في وقت لاحق.",
+
+	"server-timeout": "يبدو أن لديك شبكة غير مستقرة أو أن الخادم يستغرق وقتًا طويلاً للاستجابة، يرجى المحاولة مرة أخرى لاحقًا.",
+
+	"unknown": "حدث خطأ ما، يرجى المحاولة مرة أخرى لاحقًا.",
+
+	"field-required": "هذا الحقل مطلوب.",
+
+	"request-error": "خطأ في الطلب",
+
+	"home": "الرئيسية",
+
+	"search": "البحث",
+
+	"retry": "أعد المحاولة",
+
+	"no-results-found": "لا توجد نتائج",
+
+	"type-here": "اكتب هنا...",
+
+	"filter": "الفلترة",
+
+	"our-top-picks-for-you": "أفضل اختياراتنا لك",
+
+	"brands": "العلامات التجارية",
+
+	"recently-added": "تمت إضافتها مؤخرًا",
+
+	"select-brand": "اختر العلامة التجارية",
+
+	"search-for-brands": "البحث عن العلامات التجارية",
+
+	"search-for-models": "البحث عن الفئات",
+
+	"select-condition": "اختر الحالة",
+
+	"select-year": "اختر السنة",
+
+	"paint-parts": "أجزاء الطلاء",
+
+	"select-payment-method": "اختر طريقة الدفع",
+
+	"clear": "حذف",
+
+	"results": "النتائج ({})",
+
+	"results-found": "تم العثور  على {} نتائج",
+
+	"specs": "المواصفات",
+
+	"manufacturer": "الشركة المصنعة",
+
+	"year": "السنة",
+
+	"exterior-color": "اللون الخارجي",
+
+	"interior-color": "اللون الداخلي",
+
+	"import-country": "بلد الاستيراد",
+
+	"transmission": "ناقل الحركة",
+
+	"fuel-type": "نوع الوقود",
+
+	"engine-capacity": "سعة المحرك",
+
+	"cylinders": "الاسطوانات",
+
+	"number-of-seats": "عدد المقاعد",
+
+	"mileage": "عدد الكيلومترات",
+
+	"plate": "اللوحة",
+
+	"vehicle-details": "تفاصيل المركبة",
+
+	"whatsapp": "واتساب",
+
+	"call": "اتصال",
+
+	"report": "التقرير",
+
+	"image": "صورة",
+
+	"price": "السعر",
+
+	"brand": "العلامة التجارية",
+
+	"model": "النموذج",
+
+	"select-model": "اختر النموذج",
+
+	"trim": "الفئة",
+
+	"select-trim": "اختر الفئة",
+
+	"description": "الوصف",
+
+	"iqd": "د.ع",
+
+	"gallery": "المعرض",
+
+	"vehicle-identification-number": "رقم الشاصي",
+
+	"notifications": "الاشعارات",
+
+	"my-orders": "طلباتي",
+
+	"reports": "التقارير",
+
+	"vehicle-inquiry": "استعلام عن مركبة",
+
+	"images": "الصور",
+
+	"save": "حفظ",
+
+	"cancel": "الغاء",
+
+	"show": "عرض",
+
+	"the-report-has-been-fetched-successfully-you-can-show-it-in-the-reports-page-or-you-can-press-the-button-below-to-view-it": "تم جلب التقرير بنجاح، يمكنك إظهاره في صفحة التقارير أو يمكنك الضغط على الزر أدناه لمشاهدته",
+
+	"do-you-want-to-get-report-for-this-vehicle": "هل تريد الحصول على تقرير هذه المركبة؟",
+
+	"there-are-no-orders": "لا توجد طلبات",
+
+	"no-reports-found": "لا توجد تقارير",
+
+	"attention": "انتباه",
+
+	"are-you-sure-you-want-to-get-this-report": "هل انت متاكد انك تريد الحصول على هذا التقرير؟",
+
+	"yes": "نعم"
+}
